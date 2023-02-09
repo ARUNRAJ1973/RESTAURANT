@@ -87,12 +87,12 @@ div nav span{
    border-radius: 5px;
 }
 .formy{
-    /* background-image: linear-gradient( rgb(253, 22, 22) rgb(204, 165, 8)); */
    background-image: linear-gradient(rgb(185, 141, 183),rgb(128, 186, 166));
  } 
- /* .forms{
-    margin: 0px 150px;
- }  */
+.forms{
+    background-color: grey;
+    border-radius: 20px;
+}
  
 .hotel button{
     box-shadow: 8px 8px 5px rgb(81, 79, 79);
